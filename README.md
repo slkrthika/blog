@@ -1,5 +1,5 @@
 # onepage
-uncomplicated single-page jekyll blog theme
+This is the blog created for updating cool stufffs
 
 # [DEMO](http://himsel.me)
 
