@@ -1,9 +1,9 @@
-# onepage
+# Aim of the blog
 This is the blog created for updating cool stufffs
 
-# [DEMO](http://himsel.me)
+# [DEMO](http://slkrthika/blog.github.io)
 
-# use it! - 4 easy steps
+# recipe for creating a blog :smile: - 4 easy steps
 
 #### 1. fork this repository and rename it
 
