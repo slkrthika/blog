@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Playfair Display';
   font-style: normal;
-  font-weight: 400;
+  font-weight: 300;
   src: url(../fonts/pf.ttf) format('truetype');
 }
 @font-face {
@@ -45,7 +45,7 @@ a{
     cursor: pointer;
 }
 a:hover{
-    color: #b21c1c;
+    color: blue;
 }
 a:active{
     color: #910b0b;

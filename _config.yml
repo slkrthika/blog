@@ -14,10 +14,10 @@ twitter_username: your-name
 github_username:  slkrthika # (your name)
 accent: "#f7f7e6" # accent color for blog column
 
-author: "Slkrthika, Sriram,"
-address: "Chennai <br> India"
-email: "muthukrthika@gmail.com","sriramsds98@gmail.com"
-
+=======
+author: "Slkrthika ,Sriramsds"
+address: "Chennai<br>India".
+email: "sriramsds98@gmail.com","muthukrthika@gmail.com"
 
 # google analytics tracking code, please change the value
 g_analytics: ""

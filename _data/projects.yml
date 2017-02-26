@@ -1,9 +1,11 @@
-- name: AIM 1
+
+=======
+- name: Presenting on
   link: "#"
-  description: To create awarness about the cool stuffs
-- name: project 2
+  description: updation of cool stuff
+- name: presenting on
   link: "#"
   description: about free software
-- name: project 3
-  link:"#"
-  description:
+- name: presenting on
+  link: "#"
+  description: LINUX lovers!!
