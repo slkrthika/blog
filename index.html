@@ -7,8 +7,8 @@ layout: default
 	<article itemscope itemtype="http://schema.org/BlogPosting">
 		<h2>{{ post.title }}<br>
 		<small class="chip">{{ post.date | date: "%b %-d, %Y" }}</small>
-		<a class="chip" href="https://twitter.com/intent/tweet?text={{ post.title | cgi_escape }}&url={{ post.date | date: "%F-%H" | prepend: "#" | prepend: site.baseurl | prepend: site.url | cgi_escape }}"><i class="icon ion-social-twitter"></i> TWEET</a>
-		<a class="chip" href="{{ site.url }}{{ site.baseurl }}#{{ post.date | date: "%F-%H" }}"><i class="icon ion-android-share-alt"></i> LINK</a>
+		<a class="chip" href=" "><i class="icon ion-social-twitter"></i> TWEET</a>
+		<a class="chip" href=" "></a>
 		</h2>
 		
 		<div class="post-content">
@@ -16,7 +16,7 @@ layout: default
 		</div>
 
 		{% if post.author %}
-		<span class="chip" itemprop="author" itemscope itemtype="http://schema.org/Person">
+		<span class="chip" itemprop="author" itemscope itemtype=" ">
 			<span itemprop="name">Article by {{ post.author }}</span>
 		</span>
 		{% endif %}

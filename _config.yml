@@ -7,16 +7,17 @@ lsi: false
 permalink: /:title
 
 title: COMMON BLOG
-description: CREATION OF A COMMON BLOG
+description: COMMON BLOG FOR TECHY
 baseurl: ""
 url: "http://himsel.me" # replace by your site's url
 twitter_username: your-name
-github_username:  lukas-h # (your name)
+github_username:  slkrthika # (your name)
 accent: "#f7f7e6" # accent color for blog column
 
-author: slkrthika,sriramsds
-address: Chennai.India.
-email: sriramsds98@gmail.com,muthukrthika@gmail.com
+=======
+author: "Slkrthika ,Sriramsds"
+address: "Chennai<br>India".
+email: "sriramsds98@gmail.com","muthukrthika@gmail.com"
 
 # google analytics tracking code, please change the value
 g_analytics: ""
