@@ -1,0 +1,30 @@
+safe: false
+
+# build settings
+markdown: kramdown
+highlighter: rouge
+lsi: false
+permalink: /:title
+
+title: "Common Blog"
+description: "Common blog for Techy"
+baseurl: ""
+url: "https://slkritika.github.io/blog.github.io" # replace by your site's url
+#twitter_username: your-name
+github_username:  slkrthika # (your name)
+accent: "#f7f7e6" # accent color for blog column
+
+author: "slkritika, Sriram "
+address: "Chennai <br> India"
+email: "muthukrthika@gmail.com"
+
+# google analytics tracking code, please change the value
+g_analytics: ""
+
+# language settings
+isolang: en
+
+# exclude files
+exclude:
+  - LICENSE
+  - README.md

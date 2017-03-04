@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Common Blog</title>
+    <description>Common blog for Techy</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 04 Mar 2017 22:53:08 +0530</pubDate>
+    <lastBuildDate>Sat, 04 Mar 2017 22:53:08 +0530</lastBuildDate>
+    <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>How the blog created?</title>
+        <description>&lt;h1 id=&quot;aim-of-the-blog&quot;&gt;Aim of the Blog&lt;/h1&gt;
+&lt;p&gt;To share common technology upadates and free and open source software updates&lt;/p&gt;
+
+&lt;h2 id=&quot;how-it-is-created&quot;&gt;How it is created?&lt;/h2&gt;
+&lt;p&gt;This blog is created using http://github.com - automatic!
+&lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;creation-steps-of-the-blog&quot;&gt;Creation steps of the blog&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Create a  http://github.com - automatic&lt;img src=&quot;http://github.com&quot; alt=&quot;GitHub&quot; /&gt; account&lt;/li&gt;
+  &lt;li&gt;fork our blog  http://github.com - automatic&lt;img src=&quot;http://github.com/slkrthika/blog.github.io&quot; alt=&quot;GitHub&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;you want a list?&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;first&lt;/li&gt;
+  &lt;li&gt;second&lt;/li&gt;
+  &lt;li&gt;third&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;you want an ordered list?&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;whatever&lt;/li&gt;
+  &lt;li&gt;whatever&lt;/li&gt;
+  &lt;li&gt;whatever&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 25 Feb 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000#2017-02-25-00</link>
+        <guid isPermaLink="true">/test</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>MY SIMPLE FIRST BLOG</title>
+        <description>&lt;p&gt;Welcome to this jekyll theme!&lt;br /&gt;
+Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; how you want, and see what happens…..&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Sep 2016 01:40:00 +0530</pubDate>
+        <link>http://localhost:4000#2016-09-20-01</link>
+        <guid isPermaLink="true">/welcome</guid>
+        
+        <category>example</category>
+        
+        <category>welcome</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

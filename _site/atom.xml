@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Common Blog</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000"/>
+ <updated>2017-03-04T22:53:08+05:30</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>slkritika, Sriram </name>
+   <email>muthukrthika@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>How the blog created?</title>
+   <link href="http://localhost:4000#2017-02-25-00"/>
+   <updated>2017-02-25T00:00:00+05:30</updated>
+   <id>/test</id>
+   <content type="html">&lt;h1 id=&quot;aim-of-the-blog&quot;&gt;Aim of the Blog&lt;/h1&gt;
+&lt;p&gt;To share common technology upadates and free and open source software updates&lt;/p&gt;
+
+&lt;h2 id=&quot;how-it-is-created&quot;&gt;How it is created?&lt;/h2&gt;
+&lt;p&gt;This blog is created using http://github.com - automatic!
+&lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;creation-steps-of-the-blog&quot;&gt;Creation steps of the blog&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Create a  http://github.com - automatic&lt;img src=&quot;http://github.com&quot; alt=&quot;GitHub&quot; /&gt; account&lt;/li&gt;
+  &lt;li&gt;fork our blog  http://github.com - automatic&lt;img src=&quot;http://github.com/slkrthika/blog.github.io&quot; alt=&quot;GitHub&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;you want a list?&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;first&lt;/li&gt;
+  &lt;li&gt;second&lt;/li&gt;
+  &lt;li&gt;third&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;you want an ordered list?&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;whatever&lt;/li&gt;
+  &lt;li&gt;whatever&lt;/li&gt;
+  &lt;li&gt;whatever&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>MY SIMPLE FIRST BLOG</title>
+   <link href="http://localhost:4000#2016-09-20-01"/>
+   <updated>2016-09-20T01:40:00+05:30</updated>
+   <id>/welcome</id>
+   <content type="html">&lt;p&gt;Welcome to this jekyll theme!&lt;br /&gt;
+Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; how you want, and see what happens…..&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
