@@ -48,3 +48,26 @@ The BBP-SDK (Blue Brain Project - Software Development Kit) is a set of software
 #### Visualization of results:
 #### RTNeuron
 RTNeuron is the primary application used by the BBP for visualisation of neural simulations. The software was developed internally by the BBP team. It is written in C++ and OpenGL. RTNeuron is ad-hoc software written specifically for neural simulations. RTNeuron takes the output from [Hodgkin-Huxley simulations](http://www.cs.cmu.edu/~dst/HHsim/) in NEURON and renders them in 3D. This allows researchers to watch as activation potentials propogate through a neuron and between neurons. The animations can be stopped, started and zoomed, thus letting researchers interact with the model. The visualisations are multi-scale, that is they can render individual neurons or a whole cortical column.
+
+## Blue Brain Project
+The Blue Brain Project is an attempt to reverse engineer the human brain and recreate it at the cellular level inside a computer simulation. The project was founded in May 2005 by Henry Markram at the EPFL in Lausanne, Switzerland. Goals of the project are to gain a complete understanding of the brain and to enable better and faster development of brain disease treatments.
+
+As of August 2012 the largest simulations are of mesocircuits containing around 100 cortical columns . Such simulations involve approximately 1 million neurons and 1 billion synapses. This is about the same scale as that of a honey bee brain. It is hoped that a rat brain neocortical simulation (~21 million neurons) will be achieved by the end of 2014. A full human brain simulation (86 billion neurons) should be possible by 2023 provided sufficient funding is received.
+
+#### Motivation
+As said above , there are 4 major motivations of the **Blue Brain Project** ...
+
+Four broad motivations behind the Blue Brain Project are:
+
+1.Brain disease treatments
+
+2.Scientific curiosity about consciousness and the human mind
+
+3.Integration of all neuroscientific research results worldwide
+
+4.Progress towards building thinking machines (bottom up approach)
+
+One in four people will suffer from one of around 560 brain diseases during their lifetime. Therefore it is important to have a good strategy for understanding these diseases and finding suitable treatments. The living brain is very difficult to study. A virtual model, however, makes direct observations possible. Experiments on models are also more efficient and limit the need for laboratory animals. The Blue Brain Project, by including molecular-level simulations, could be used to study the effect of new pharmaceutical compounds on virtual brains of any species, age, and stage of disease.
+
+Another aim of the Blue Brain Project is to provide a centrally coordinated resource for the 200,000 active neuroscientists in the world. Previously each researcher has focused on their own specialist field without the results being shared and easily available to all. The BBP hopes to build a bigger, better platform for neuroscientists to experiment on. The project is becoming a brain simulation facility that is accessible to all.
+
