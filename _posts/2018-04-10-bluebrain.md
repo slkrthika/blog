@@ -17,6 +17,8 @@ Blue Brain is the name of the world's first virtual brain. A Virtual machine is 
 
 4.databases of all neuroscientific research results and related past stories. 
 
+![Blue Brain] (http://www.artificialbrains.com/images/blue-brain-project/cortical-mesocircuit-simulation-250px.png)
+
 ## How to build a virtual brain
 There are three main steps to build the virtual brain are 
 
@@ -40,3 +42,9 @@ The simulation step involves synthesising virtual cells using the algorithms tha
 2.Then the cells are connected together according to the rules that have been found experimentally.
 
 3.Finally the neurons are functionalised and the simulation brought to life. The patterns of emergent behaviour are viewed with visualisation software.
+
+#### BBP-SDK:
+The BBP-SDK (Blue Brain Project - Software Development Kit) is a set of software classes (APIs) that allows researchers to utilize and inspect models and simulations. The SDK is a C++ library wrapped in Java and Python.
+
+#### Visualization of results
+
