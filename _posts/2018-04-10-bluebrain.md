@@ -16,3 +16,5 @@ Blue Brain is the name of the world's first virtual brain. A Virtual machine is 
 3.a bottom up approach towards building thinking machine  
 
 4.databases of all neuroscientific research results and related past stories. 
+
+------------------------------------------------------------------------------------------------------------------------------------------
