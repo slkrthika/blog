@@ -17,4 +17,26 @@ Blue Brain is the name of the world's first virtual brain. A Virtual machine is 
 
 4.databases of all neuroscientific research results and related past stories. 
 
-------------------------------------------------------------------------------------------------------------------------------------------
+## How to build a virtual brain
+There are three main steps to build the virtual brain are 
+
+1.data acquisition
+
+2.simulation  
+
+3.visualization of results.
+
+#### Data Acquistion 
+Data acquisition involves taking brain slices, placing them under a microscope, and measuring the shape and electrical activity of individual neurons. This is how the different types of neuron are studied and catalogued. The neurons are typed by morphology (i.e. their shape), electrophysiological behaviour, location within the cortex, and their population density. These observations are translated into mathematical algorithms which describe the form, function, and positioning of neurons. The algorithms are then used to generate biologically-realistic virtual neurons ready for simulation.
+
+#### Simulation
+A software package was used by BBP for simulation of neurons and it was called as **NEURONS** , was developed in 1990 and written in C,C++ and FORTAN.The software continues to be under active development and, as of July 2012, is currently at version 7.2. It is free and open source software, both the code and the binaries are freely available on the website.
+
+#### Workflow
+The simulation step involves synthesising virtual cells using the algorithms that were found to describe real neurons. The algorthims and parameters are adjusted for the age, species, and disease stage of the animal being simulated. Every single protein is simulated, and there are about a billion of these in one cell.
+
+1.First a network skeleton is built from all the different kinds of synthesised neurons. 
+
+2.Then the cells are connected together according to the rules that have been found experimentally.
+
+3.Finally the neurons are functionalised and the simulation brought to life. The patterns of emergent behaviour are viewed with visualisation software.
