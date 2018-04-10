@@ -17,7 +17,6 @@ Blue Brain is the name of the world's first virtual brain. A Virtual machine is 
 
 4.databases of all neuroscientific research results and related past stories. 
 
-![Blue Brain] (http://www.artificialbrains.com/images/blue-brain-project/cortical-mesocircuit-simulation-250px.png)
 
 ## How to build a virtual brain
 There are three main steps to build the virtual brain are 
@@ -46,5 +45,6 @@ The simulation step involves synthesising virtual cells using the algorithms tha
 #### BBP-SDK:
 The BBP-SDK (Blue Brain Project - Software Development Kit) is a set of software classes (APIs) that allows researchers to utilize and inspect models and simulations. The SDK is a C++ library wrapped in Java and Python.
 
-#### Visualization of results
-
+#### Visualization of results:
+#### RTNeuron
+RTNeuron is the primary application used by the BBP for visualisation of neural simulations. The software was developed internally by the BBP team. It is written in C++ and OpenGL. RTNeuron is ad-hoc software written specifically for neural simulations. RTNeuron takes the output from [Hodgkin-Huxley simulations](http://www.cs.cmu.edu/~dst/HHsim/) in NEURON and renders them in 3D. This allows researchers to watch as activation potentials propogate through a neuron and between neurons. The animations can be stopped, started and zoomed, thus letting researchers interact with the model. The visualisations are multi-scale, that is they can render individual neurons or a whole cortical column.
